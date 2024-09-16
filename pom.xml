@@ -9,7 +9,7 @@
    <version>1.0-SNAPSHOT</version>
 
    <properties>
-      <infinispan.version>11.0.0.Dev05</infinispan.version>
+      <infinispan.version>14.0.25.Final</infinispan.version>
    </properties>
 
    <dependencies>
